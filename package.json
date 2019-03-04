@@ -1,26 +1,26 @@
 {
   "name": "react-native-mytracker",
-  "version": "1.0",
+  "version": "1.0.0",
   "description": "React Native myTracker plugin",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "myTracker / Artemiy Pulyavin",
   "repository": {
     "type": "git",
-    "url": "https://github.com/pulyavin/react-native-mytracker.git"
+    "url": "git+https://github.com/pulyavin/react-native-mytracker.git"
   },
-  "license": {
-    "type": "MIT",
-    "url": "https://github.com/pulyavin/react-native-mytracker/blob/master/LICENSE"
-  },
-  "homepage": "https://github.com/pulyavin/react-native-mytracker",
   "keywords": [
     "react-native",
     "react",
     "native",
     "my.com",
     "myTracker"
-  ]
+  ],
+  "homepage": "https://github.com/pulyavin/react-native-mytracker#readme",
+  "author": "myTracker / Artemiy Pulyavin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pulyavin/react-native-mytracker/issues"
+  }
 }
